@@ -35,4 +35,6 @@ ehthumbs.db
 
 # Temporary files
 *.tmp
-*.temp
+*.tmp
+
+session_memory.md
