@@ -1,6 +1,5 @@
 # F5 Distributed Cloud Synthetic Monitoring Lab Guide
 
-![F5 Logo](images/image1.png)
 
 ## 📋 Overview
 
